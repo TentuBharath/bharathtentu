@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Full Stack Wed Development**
 
-- 👨‍💻 All of my projects are available at [www.linkedin.com/in/tentu-bharath-166256223](www.linkedin.com/in/tentu-bharath-166256223)
+- 👨‍💻 All of my projects are available at [LinkedIn](https://www.linkedin.com/in/bharathtentu/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
